@@ -1,0 +1,13 @@
+.con{
+    background:  #ccc;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+:global(.con1) {
+    border:1px solid #f00;
+    background:  #ccc;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
